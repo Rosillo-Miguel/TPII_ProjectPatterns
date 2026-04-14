@@ -1,6 +1,6 @@
 ﻿using projetoPrototype.Models.Prototypes;
 
-namespace projetoPrototype.Models.Entities
+namespace projetoPrototype.Models.ConcretePrototypes
 {
     // Concrete Prototype
     public class Warrior : Character
