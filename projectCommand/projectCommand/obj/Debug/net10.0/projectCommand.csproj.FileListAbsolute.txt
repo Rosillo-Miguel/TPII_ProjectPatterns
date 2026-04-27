@@ -1,0 +1,14 @@
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\bin\Debug\net10.0\projectCommand.exe
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\bin\Debug\net10.0\projectCommand.deps.json
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\bin\Debug\net10.0\projectCommand.runtimeconfig.json
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\bin\Debug\net10.0\projectCommand.dll
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\bin\Debug\net10.0\projectCommand.pdb
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.AssemblyInfoInputs.cache
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.AssemblyInfo.cs
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.csproj.CoreCompileInputs.cache
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.dll
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\refint\projectCommand.dll
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.pdb
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\projectCommand.genruntimeconfig.cache
+C:\Users\mrosi\Desktop\TP1\projectCommand\projectCommand\obj\Debug\net10.0\ref\projectCommand.dll
