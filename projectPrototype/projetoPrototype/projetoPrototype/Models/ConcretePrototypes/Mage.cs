@@ -15,7 +15,7 @@ namespace projetoPrototype.Models.ConcretePrototypes
         public override Character Clone()
         {
             return (Character)this.MemberwiseClone();
-            //return new Warrior(Name, Level, Weapon, Mana);
+            //return new Mage(Name, Level, Weapon, Mana);
         }
     }
 }

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|c:\\users\\aluno\\desktop\\pattern projects\\tpii_projectpatterns\\projectprototype\\projetoprototype\\projetoprototype\\models\\prototypes\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|solutionrelative:projetoprototype\\models\\prototypes\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|c:\\users\\aluno\\desktop\\pattern projects\\tpii_projectpatterns\\projectprototype\\projetoprototype\\projetoprototype\\models\\entities\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|solutionrelative:projetoprototype\\models\\entities\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|c:\\users\\aluno\\desktop\\pattern projects\\tpii_projectpatterns\\projectprototype\\projetoprototype\\projetoprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|solutionrelative:projetoprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|c:\\users\\aluno\\desktop\\pattern projects\\tpii_projectpatterns\\projectprototype\\projetoprototype\\projetoprototype\\models\\concreteprototypes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|solutionrelative:projetoprototype\\models\\concreteprototypes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|c:\\users\\aluno\\desktop\\pattern projects\\tpii_projectpatterns\\projectprototype\\projetoprototype\\projetoprototype\\models\\concreteprototypes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|solutionrelative:projetoprototype\\models\\concreteprototypes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|c:\\users\\aluno\\desktop\\pattern projects\\tpii_projectpatterns\\projectprototype\\projetoprototype\\projetoprototype\\models\\prototypes\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82210ED8-1442-4704-B073-8D5C72CB4010}|projetoPrototype\\projetoPrototype.csproj|solutionrelative:projetoprototype\\models\\prototypes\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\ConcretePrototypes\\Mage.cs",
+              "RelativeDocumentMoniker": "projetoPrototype\\Models\\ConcretePrototypes\\Mage.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\ConcretePrototypes\\Mage.cs",
+              "RelativeToolTip": "projetoPrototype\\Models\\ConcretePrototypes\\Mage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:21:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Warrior.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\Entities\\Warrior.cs",
-              "RelativeDocumentMoniker": "projetoPrototype\\Models\\Entities\\Warrior.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\Entities\\Warrior.cs",
-              "RelativeToolTip": "projetoPrototype\\Models\\Entities\\Warrior.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA5wA4AAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\ConcretePrototypes\\Warrior.cs",
+              "RelativeDocumentMoniker": "projetoPrototype\\Models\\ConcretePrototypes\\Warrior.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\ConcretePrototypes\\Warrior.cs",
+              "RelativeToolTip": "projetoPrototype\\Models\\ConcretePrototypes\\Warrior.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T00:58:09.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\Prototypes\\Character.cs",
               "RelativeDocumentMoniker": "projetoPrototype\\Models\\Prototypes\\Character.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Models\\Prototypes\\Character.cs",
               "RelativeToolTip": "projetoPrototype\\Models\\Prototypes\\Character.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T00:43:52.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Program.cs",
               "RelativeDocumentMoniker": "projetoPrototype\\Program.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Pattern Projects\\TPII_ProjectPatterns\\projectPrototype\\projetoPrototype\\projetoPrototype\\Program.cs",
               "RelativeToolTip": "projetoPrototype\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T23:45:20.95Z",
               "EditorCaption": ""
