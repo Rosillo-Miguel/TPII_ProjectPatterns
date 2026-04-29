@@ -1,0 +1,45 @@
+﻿@using projetoPrototype.Models.ConcretePrototypes
+@model projetoPrototype.Models.Prototypes.Character
+
+<h1>⚔ Customizar NPC</h1>
+
+<form asp-controller="Character" asp-action="Save" method="post">
+
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="type" value="@ViewData["PrototypeKey"]" />
+    <input type="hidden" name="OriginalName" value="@ViewData["OriginalName"]" />
+
+    @if (Model is Warrior warrior)
+    {
+        <p>Arma: @warrior.Weapon</p>
+        <p>Força: @warrior.Strength</p>
+    }
+
+    @if (Model is Mage mage)
+    {
+        <p>Arma: @mage.Weapon</p>
+        <p>Mana: @mage.Mana</p>
+    }
+
+    @if (Model is Boss boss)
+    {
+        <p>Arma: @boss.Weapon</p>
+        <p>Força: @boss.Strength</p>
+        <p>Poder: @boss.SpecialPower</p>
+    }
+
+    <label>Nome</label>
+    <input name="Name" value="@Model.Name" />
+
+    <br /><br />
+
+    <label>Nível</label>
+    <input name="Level" value="@Model.Level" />
+
+    <br /><br />
+
+    <button>
+        Salvar Personagem
+    </button>
+
+</form>

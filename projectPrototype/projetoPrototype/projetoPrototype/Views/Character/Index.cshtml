@@ -1,0 +1,41 @@
+﻿<h1>⚔ Criador de NPCs RPG</h1>
+
+<div class="cards">
+
+    <div class="card">
+        <h2>🛡 Guerreiro</h2>
+        <p>Espada e força bruta</p>
+
+        <a asp-controller="Character"
+           asp-action="Clone"
+           asp-route-type="warrior">
+            <button>Clonar</button>
+        </a>
+
+    </div>
+
+    <div class="card">
+        <h2>🔮 Mago Raro</h2>
+        <p>Magia arcana</p>
+
+        <a asp-controller="Character"
+           asp-action="Clone"
+           asp-route-type="mage">
+            <button>Clonar</button>
+        </a>
+
+    </div>
+
+    <div class="card">
+        <h2>👹 Boss Orc</h2>
+        <p>Chefe poderoso</p>
+
+        <a asp-controller="Character"
+           asp-action="Clone"
+           asp-route-type="boss">
+            <button>Clonar</button>
+        </a>
+
+    </div>
+
+</div>

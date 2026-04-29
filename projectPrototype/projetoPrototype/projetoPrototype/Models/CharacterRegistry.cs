@@ -13,9 +13,17 @@ namespace projetoPrototype.Models
                 prototypes[key] = character;
             }
 
-            public Character CloneCharacter(string key)
-            {
-                return prototypes[key].Clone();
-            }
+        public Character CloneCharacter(string key)
+        {
+            if (key == null)
+                throw new Exception("Key veio null");
+
+            if (!prototypes.ContainsKey(key))
+                throw new Exception(
+                  $"Protótipo {key} não encontrado"
+                );
+
+            return prototypes[key].Clone();
         }
+    }
 }
